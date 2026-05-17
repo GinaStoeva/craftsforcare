@@ -30,6 +30,15 @@ body {
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
+    /* Styling for your uploaded craft photos */
+        .craft-photo {
+            width: 100%; 
+            max-width: 250px; /* Makes the image tinier. Change this number to make it bigger or smaller! */
+            height: auto; /* Keeps the image from getting stretched out and weird */
+            border-radius: 20px; /* This gives it the cute rounded corners */
+            margin: 15px 10px; /* Adds a little breathing room around the photo */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Adds a soft shadow to match your buttons */
+        }
 
 .btn {
     display: inline-block;
