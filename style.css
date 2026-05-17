@@ -33,7 +33,7 @@ body {
     /* Styling for your uploaded craft photos */
         .craft-photo {
             width: 100%; 
-            max-width: 250px; /* Makes the image tinier. Change this number to make it bigger or smaller! */
+            max-width: 100px; /* Makes the image tinier. Change this number to make it bigger or smaller! */
             height: auto; /* Keeps the image from getting stretched out and weird */
             border-radius: 20px; /* This gives it the cute rounded corners */
             margin: 15px 10px; /* Adds a little breathing room around the photo */
